@@ -1,5 +1,7 @@
 # Elm Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ezekeal/elm-starter.svg)](https://greenkeeper.io/)
+
 This should get you up and going with an elm webapp
 
 ### Get Started
